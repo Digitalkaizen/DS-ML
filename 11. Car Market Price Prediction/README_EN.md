@@ -2,7 +2,7 @@
 
 ## Project Description
 
-"Not Crashed, Not Scratched" is a used car sales service developing a web application that allows users to estimate the market value of their car.
+Client is a used car sales service developing a web application that allows users to estimate the market value of their car.
 
 You are provided with historical data including vehicle specifications, configuration, and prices. The goal is to build a model that accurately predicts car prices.
 
