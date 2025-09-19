@@ -1,6 +1,6 @@
 # Project & Task Description (EN)
 
-## Project: Predicting Customer Churn for Telecom Operator “TeleDom”
+## Project: Predicting Customer Churn for Telecom Operator
 
 **Goal:** build a model that predicts if a subscriber will terminate the contract in advance, enabling timely retention actions (promo codes, special offers).  
 **Context:** the company provides personal, contract, and service data. Contract information is current as of **2020‑02‑01**.
