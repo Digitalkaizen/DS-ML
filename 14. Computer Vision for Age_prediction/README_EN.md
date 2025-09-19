@@ -1,7 +1,7 @@
 # Age Prediction from Face Images
 
 ## Project Description
-The retail chain **"Khleb-Sol"** is implementing a computer vision system for processing customer photographs.  
+The retail chain is implementing a computer vision system for processing customer photographs.  
 Cameras at checkout areas will help to:
 
 - Analyze customer purchases and recommend products relevant to their age group.
